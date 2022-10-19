@@ -1,5 +1,11 @@
 {
     "name": "fhsinchy/inspire",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/emon233/inspire"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Fhsinchy\\Inspire\\": "src/"
